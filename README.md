@@ -12,8 +12,7 @@
 
 ## Demo
 
-🚀 **[Dashboard en Streamlit Cloud](https://lcarrenoy-retail-pl-analyzer.streamlit.app)** *(próximamente)*
-
+🚀 **[Dashboard en Streamlit Cloud](https://retail-pl-analyzer.streamlit.app)**
 ---
 
 ## Arquitectura
