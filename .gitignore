@@ -7,8 +7,9 @@ dist/
 build/
 .DS_Store
 *.log
-*.csv
 *.xlsx
 *.parquet
 node_modules/
 .next/
+*.csv
+!data/sample/*.csv

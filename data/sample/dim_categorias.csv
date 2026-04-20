@@ -1,0 +1,11 @@
+id,nombre,margen_base,merma_base
+C01,Abarrotes,0.18,0.02
+C02,Perecibles,0.28,0.08
+C03,Bebidas,0.22,0.01
+C04,Lacteos,0.2,0.05
+C05,Carnes y Pescados,0.32,0.1
+C06,Panaderia,0.45,0.12
+C07,Limpieza,0.25,0.01
+C08,Cuidado Personal,0.35,0.01
+C09,Congelados,0.3,0.03
+C10,Frutas y Verduras,0.38,0.15

@@ -1,0 +1,11 @@
+id,nombre,formato,distrito,nse
+T01,ABC Miraflores,Express,Miraflores,AB
+T02,ABC San Isidro,Express,San Isidro,AB
+T03,ABC Surco,Supermarket,Surco,AB
+T04,ABC La Molina,Supermarket,La Molina,AB
+T05,ABC San Borja,Express,San Borja,AB
+T06,ABC Barranco,Express,Barranco,BC
+T07,ABC Pueblo Libre,Supermarket,Pueblo Libre,BC
+T08,ABC Jesus Maria,Supermarket,Jesus Maria,BC
+T09,ABC Lince,Express,Lince,BC
+T10,ABC San Miguel,Supermarket,San Miguel,BC
