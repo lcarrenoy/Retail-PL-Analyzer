@@ -1,0 +1,20 @@
+[project]
+name = "retail-pl-analyzer"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "anthropic>=0.96.0",
+    "faker>=40.15.0",
+    "fastapi>=0.136.0",
+    "langchain>=1.2.15",
+    "langchain-anthropic>=1.4.1",
+    "numpy>=2.4.4",
+    "pandas>=3.0.2",
+    "plotly>=6.7.0",
+    "python-dotenv>=1.2.2",
+    "requests>=2.33.1",
+    "streamlit>=1.56.0",
+    "uvicorn>=0.44.0",
+]
